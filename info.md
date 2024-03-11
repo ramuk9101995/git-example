@@ -15,4 +15,8 @@ git log -- for all commits on branch
 git diff --for show differences of previous commit
 git brunch -- brunch name
 
+git diff --cached --for check stage file changes with previous one
 
+q -- for git bash command
+
+git diff commit_number --for detials of this commit with previous commit
