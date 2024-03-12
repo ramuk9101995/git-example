@@ -47,6 +47,15 @@ git remote -v for check origin branch
 
 git push origin master --to push master branch to origin[remote name] master[remote branch name]
 
+git checkout -b dev --its create a branch and path on dev branch for work
+
+git fetch
+git merge --for fetch and show in work directory 
+
+git pull origin master -- fetch and merge in directory shortcut 
+
+
+
 
 
 
