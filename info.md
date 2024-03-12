@@ -41,6 +41,13 @@ git stash --untracked file temporary saved but deleted also
 git stash apply --resave temporary file
 
 
+git remote add origin git@github.com:ramuk9101995/git-example.git --for add remote
+
+git remote -v for check origin branch
+
+git push origin master --to push master branch to origin[remote name] master[remote branch name]
+
+
 
 
 
