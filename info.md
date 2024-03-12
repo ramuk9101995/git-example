@@ -55,6 +55,8 @@ git merge --for fetch and show in work directory
 git pull origin master -- fetch and merge in directory shortcut 
 
 
+git clone link --clone a project
+
 
 
 
